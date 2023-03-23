@@ -95,11 +95,7 @@ int aiCastigat(char* tablaJoc, int lungimeCuvant) {
         return 1;
 }
 
-void convUpper(char* litera) {
-    if(*litera >= 97 && *litera <= 122) {
-        *litera -= 32;
-    }
-}
+
 
 void afisareJoc(char* arrayJoc, int nrCaractere) {
 
