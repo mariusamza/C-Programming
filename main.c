@@ -95,7 +95,7 @@ int aiCastigat(char* tablaJoc, int lungimeCuvant) {
         return 1;
 }
 
-
+// HAHAHAHAHA
 
 void afisareJoc(char* arrayJoc, int nrCaractere) {
 
