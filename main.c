@@ -82,6 +82,8 @@ void checkLitera(char* literaJucator, char* cuvantAles, char* tablaJoc, int lung
     }
 }
 
+// HAHAHA 2
+
 int aiCastigat(char* tablaJoc, int lungimeCuvant) {
         checkWin = 0;
         for(int i=0; i<=lungimeCuvant; i++) {
