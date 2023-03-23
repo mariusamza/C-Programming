@@ -3,6 +3,8 @@
 #include <time.h>
 #include <windows.h>
 
+// Aici incepe aplicatia de SPANZURATOAREA
+
 void afisareJoc(char* arrayJoc, int nrCaractere);
 void convUpper(char* litera);
 int aiCastigat(char* tablaJoc, int lungimeCuvant);
